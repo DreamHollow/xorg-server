@@ -80,3 +80,7 @@ core
 doltcompile
 doltlibtool
 xserver.ent
+
+# You may edit the following section if needed
+
+/.vscode
